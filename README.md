@@ -70,6 +70,5 @@ This project is licensed under the MIT License. This license permits anyone to u
 ---
 
 **Note**: This script is intended for educational purposes only. Please use it responsibly.
-```
 
 ---

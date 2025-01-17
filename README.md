@@ -34,8 +34,5 @@
 - This script is designed for educational purposes and personal use. Ensure that you use it responsibly and do not misuse it for unauthorized access.
 - Works only on Windows machines, as it relies on the `netsh` command.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Disclaimer
 This script is intended for personal use. Misuse of this tool for unauthorized access to Wi-Fi networks may be illegal and is strictly prohibited.
